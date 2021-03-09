@@ -88,6 +88,7 @@ a {
 
 h1 {
     color: #fff;
+    font-family: 'Press Start 2P', cursive;
     font-size: 60px;
     text-transform: uppercase;
 }
@@ -237,11 +238,12 @@ h5 {
     top: 0;
     height: 100%;
     width: 50px;
-    background-color: #fff;
+    background-color: #000;
 }
 
 .box-primary-nav-trigger .box-menu-text {
     color: #fff;
+
     text-transform: uppercase;
     font-weight: 700;
     display: none;
@@ -895,8 +897,9 @@ footer img {
 .top-bar {
     color: #333;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
+    background: #eaaf00;
+    /* background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg); */
+    /* background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg); */
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -907,7 +910,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #fff;
     line-height: 50px;
 }
 
@@ -915,7 +918,7 @@ footer img {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #777;
+    color: #fff;
 }
 
 .top-bar p a {
