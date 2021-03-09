@@ -39,7 +39,7 @@ body {
     font-family: 'Teko', sans-serif;
     line-height: 1.8;
     font-size: 17px;
-    color: #cfcfcf;
+    color: #000;
 }
 
 .no-padding {
@@ -99,6 +99,7 @@ h3 {
 
 h5 {
     color: #fff;
+    font-size: 34px;
 }
 
 
@@ -449,7 +450,7 @@ b i:last-child {
 .box-intro h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #999;
+    color: #fff;
     line-height: 1.7
 }
 
