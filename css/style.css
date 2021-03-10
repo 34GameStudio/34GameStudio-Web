@@ -1109,24 +1109,14 @@ textarea:focus {
 }
 
 
-/* single project page
-==================================================*/
-
-.cat-ul {
-    padding-left: 0;
-    list-style: none
-}
-
-.cat-ul li i {
-    margin-right: 10px;
-    color: #ffbf00;
-}
-
-
 /* Responsive media queries
 ==================================================*/
 
 @media (max-width: 991px) {
+
+  body{
+    background-color: #000;
+  }
     .portfolio .categories-grid span {
         margin-bottom: 0;
         text-align: center;
@@ -1144,6 +1134,10 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 670px) {
+  body{
+    background-color: #000;
+  }
+
     .box-headline {
         font-size: 100px;
     }
@@ -1170,6 +1164,10 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 520px) {
+  body{
+    background-color: #000;
+  }
+
     .box-headline {
         font-size: 80px;
     }
@@ -1182,6 +1180,10 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 420px) {
+  body{
+    background-color: #000;
+  }
+  
     .box-headline {
         font-size: 50px;
     }
