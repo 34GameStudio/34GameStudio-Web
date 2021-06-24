@@ -15,8 +15,15 @@ body {
     height: 100%;
     font-family: 'Teko', sans-serif;
     line-height: 1.8;
-    font-size: 17px;
+    font-size: 19px;
     color: #000;
+}
+
+.download{
+  border: solid #fff 3px;
+  color: #eab000;
+  padding: 15px;
+  font-size: 34px;
 }
 
 .no-padding {
@@ -323,7 +330,7 @@ h6{
     background-color: transparent;
     height: 30px;
     line-height: 30px;
-    right: 10px;
+    right: 35px;
     top: 50%;
     bottom: auto;
     -webkit-transform: translateY(-50%);
@@ -336,7 +343,7 @@ h6{
 
 .box-primary-nav-trigger .box-menu-icon {
     left: auto;
-    right: 1em;
+    right: 90px;
     -webkit-transform: translateX(0) translateY(-50%);
     transform: translateX(0) translateY(-50%);
 }
