@@ -1112,6 +1112,15 @@ textarea:focus {
 
 @media (max-width: 991px) {
 
+
+  h1 {
+      color: #fff;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 70px;
+      text-transform: uppercase;
+      text-shadow: 7px 7px 0px #ff0000;
+  }
+
   body{
     background-color: #000;
   }
@@ -1132,6 +1141,15 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 670px) {
+
+  h1 {
+      color: #fff;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 70px;
+      text-transform: uppercase;
+      text-shadow: 7px 7px 0px #ff0000;
+  }
+
   body{
     background-color: #000;
   }
@@ -1162,12 +1180,21 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 520px) {
+
+  h1 {
+      color: #fff;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 90px;
+      text-transform: uppercase;
+      text-shadow: 7px 7px 0px #ff0000;
+  }
+
   body{
     background-color: #000;
   }
 
     .box-headline {
-        font-size: 80px;
+        font-size: 90px;
     }
     .box-intro h5 {
         font-size: 12px;
@@ -1178,12 +1205,21 @@ textarea:focus {
 }
 
 @media only screen and (max-width: 420px) {
+
+  h1 {
+      color: #fff;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 90px;
+      text-transform: uppercase;
+      text-shadow: 7px 7px 0px #ff0000;
+  }
+
   body{
     background-color: #000;
   }
 
     .box-headline {
-        font-size: 50px;
+        font-size: 90px;
     }
     .box-intro h5 {
         font-size: 12px;
