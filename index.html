@@ -107,8 +107,20 @@
                 </svg></a>
               </h5><h6 class="tagline">Both Available Pretty Soon.</h6>
               <br>
-                <a href="#"> <span class="download">Download for Windows</span> </a>
+                <a href="#"> <button type="button" onClick="onClick()">Download for Windiows</button>
+                <p>Total Downloads: <a id="clicks">0</a></p></a>
             </div>
+<script type="text/javascript">
+var clicks = 0;
+
+function onClick() {
+clicks += 1;
+document.getElementById("clicks").innerHTML = clicks;
+};
+</script>
+
+
+
             <div class="mouse">
                 <div class="scroll"></div>
             </div>
